@@ -1,6 +1,6 @@
+'use client'
 // Inline ESLint disable
 {/* eslint-disable-next-line react/no-unescaped-entities */}
-'use client'
 import React, { useState } from "react";
 import Image from "next/image";
 import { Menu, X, Search, ShoppingCart, Heart, Lightbulb, User } from 'lucide-react';
