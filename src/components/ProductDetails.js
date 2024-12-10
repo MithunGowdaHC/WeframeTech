@@ -34,6 +34,8 @@ const ProductDetails = () => {
             {imagesArr.map((img, index) => (
               <img
                 key={index}
+            loading='lazy'
+
                 src={img}
                 alt={`Thumbnail ${index + 1}`}
                 className="w-10 h-10 object-cover border border-white rounded cursor-pointer"
@@ -45,6 +47,8 @@ const ProductDetails = () => {
           {/* Main Image */}
           <div className="flex items-center justify-center mt-4 md:mt-0">
             <img
+            loading='lazy'
+
               src={imagesArr[imageActive]}
               alt="Main Product"
               className="w-full md:w-3/4 h-auto object-cover"

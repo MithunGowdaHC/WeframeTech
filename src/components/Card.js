@@ -41,11 +41,13 @@ const Card = ({image,title,price,subtitle,details,quantity}) => {
         </div>
         <div className="mt-6">
           <Image
+          
             src="/images/iconimage.bmp"
             alt="product"
             width={224}
             height={224}
             className="object-contain m-auto bg-[#F9F7F5]"
+            loading='lazy'
           />
         </div>
       </div>
