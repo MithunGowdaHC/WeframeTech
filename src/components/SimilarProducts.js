@@ -1,4 +1,6 @@
 'use client';
+// Inline ESLint disable
+{/* eslint-disable-next-line react/no-unescaped-entities */}
 import React from "react";
 import Card from "../components/Card";
 

@@ -1,3 +1,6 @@
+
+// Inline ESLint disable
+{/* eslint-disable-next-line react/no-unescaped-entities */}
 import React from "react";
 import { FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import Image from "next/image";

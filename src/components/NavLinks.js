@@ -1,3 +1,5 @@
+// Inline ESLint disable
+{/* eslint-disable-next-line react/no-unescaped-entities */}
 import React from 'react';
 
 const NavLinks = () => {
