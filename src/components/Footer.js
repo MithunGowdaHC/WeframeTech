@@ -61,15 +61,15 @@ const Footer = () => {
         <div className="flex flex-col gap-3 p-5">
           <p className="text-sm md:text-[18px] text-[#393939]">NOUS SUIVRE</p>
           <div className="flex justify-center md:justify-end space-x-6 mt-8 md:mt-0">
-            <a href="#" className="text-[#393939] hover:text-pink-500">
+            <li href="#" className="text-[#393939] hover:text-pink-500">
               <FaTwitter size={20} />
-            </a>
-            <a href="#" className="text-[#393939] hover:text-pink-500">
+            </li>
+            <li href="#" className="text-[#393939] hover:text-pink-500">
               <FaInstagram size={20} />
-            </a>
-            <a href="#" className="text-[#393939] hover:text-pink-500">
+            </li>
+            <li href="#" className="text-[#393939] hover:text-pink-500">
               <FaLinkedinIn size={20} />
-            </a>
+            </li>
           </div>
         </div>
       </div>
