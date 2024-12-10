@@ -334,7 +334,7 @@ const Features = () => {
           <h3 className="text-lg font-semibold text-gray-800 mt-4">
             Transport & Enlèvement
           </h3>
-          <p className="text-gray-500 mt-2">On s’occupe de tout.</p>
+          <p className="text-gray-500 mt-2">On s&apos;occupe de tout.</p>
         </div>
       </div>
     </div>

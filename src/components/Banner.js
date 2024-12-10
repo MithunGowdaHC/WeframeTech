@@ -18,7 +18,7 @@ const Banner = () => {
       {/* Right Section*/}
       <div className="flex bg-[#FFF3F9] p-10 flex-col justify-between space-y-4 rounded-xl w-full md:w-[818px] h-auto md:h-[300px]">
         <h1 className="text-2xl md:text-3xl font-bold text-gray-800">
-          S’inscrire & économiser <span className="text-[#5CD2DD]">10%</span>
+          S&apos;inscrire & économiser <span className="text-[#5CD2DD]">10%</span>
         </h1>
         <p className="text-sm md:text-base text-[#BDA2B0]">
           Office ipsum you must be muted. Synergize helicopter prioritize anyway job due harvest most opportunity didn't. Yet busy any meeting shark light marginalised 4-blocker message. Productize corporate nail caught synergy highlights lunch. Company another pushback items dear or any.
